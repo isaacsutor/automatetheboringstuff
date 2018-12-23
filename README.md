@@ -23,3 +23,5 @@ Projects:
         other than the string to strip, then whitespace characters will be removed 
         from the beginning and end of the string. Otherwise, the characters specified 
         in the second argument to the function will be removed from the string.
+2. randomQuizGenerator
+3. mcb.pyw
